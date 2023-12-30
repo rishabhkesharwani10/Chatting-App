@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390011029521",
+    "project_id": "whyy-chats",
+    "storage_bucket": "whyy-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390011029521:android:a86df53116e74340ab49b0",
+        "android_client_info": {
+          "package_name": "com.wc.whyychats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s04RXLONJ2O7h_zmW1P6llirSeCbXQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
